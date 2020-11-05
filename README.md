@@ -1,0 +1,2 @@
+# HamburgerBar
+Django backend selftraining
